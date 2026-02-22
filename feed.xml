@@ -8,10 +8,29 @@
     <lastBuildDate>2026-02-21</lastBuildDate>
     <atom:link href="https://wildcardprogram.com/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Adaptive Learning Technologies Reshaping Education</title>
+      <link>https://wildcardprogram.com/blog/adaptive-learning-technologies-reshaping-education/</link>
+      <description>How AI and personalized learning platforms are transforming educational outcomes for diverse learners.</description>
+    </item>
+    <item>
+      <title>Digital Literacy as a Fundamental Skill</title>
+      <link>https://wildcardprogram.com/blog/digital-literacy-as-a-fundamental-skill/</link>
+      <description>Why digital literacy is as important as traditional literacy and how communities can close the digital divide.</description>
+    </item>
+    <item>
+      <title>Project-Based Learning: Outcomes and Best Practices</title>
+      <link>https://wildcardprogram.com/blog/project-based-learning-outcomes-and-best-practices/</link>
+      <description>Research on how experiential learning approaches improve retention, engagement, and real-world skills.</description>
+    </item>
+    <item>
       <title>The Future of Learning: Adaptive Education in a Changing World</title>
       <link>https://wildcardprogram.com/blog/the-future-of-learning-adaptive-education-in-a-changing-world/</link>
       <description>The Future of Learning: Adaptive Education in a Changing World — an in-depth exploration with evidence-based insights.</description>
-      <pubDate>2026-02-21</pubDate>
+    </item>
+    <item>
+      <title>The Value of Lifelong Learning in a Changing Economy</title>
+      <link>https://wildcardprogram.com/blog/the-value-of-lifelong-learning-in-a-changing-economy/</link>
+      <description>Why continuous skill development is essential for career resilience and personal growth.</description>
     </item>
   </channel>
 </rss>
