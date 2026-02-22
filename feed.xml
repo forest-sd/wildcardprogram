@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Wildcard Program</title>
-    <link>https://wildcardprogram.pages.dev</link>
+    <link>https://wildcardprogram.com</link>
     <description>Latest posts from Wildcard Program</description>
     <language>en-us</language>
     <lastBuildDate>2026-02-21</lastBuildDate>
-    <atom:link href="https://wildcardprogram.pages.dev/feed.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://wildcardprogram.com/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>The Future of Learning: Adaptive Education in a Changing World</title>
-      <link>https://wildcardprogram.pages.dev/blog/the-future-of-learning-adaptive-education-in-a-changing-world/</link>
+      <link>https://wildcardprogram.com/blog/the-future-of-learning-adaptive-education-in-a-changing-world/</link>
       <description>The Future of Learning: Adaptive Education in a Changing World — an in-depth exploration with evidence-based insights.</description>
       <pubDate>2026-02-21</pubDate>
     </item>
