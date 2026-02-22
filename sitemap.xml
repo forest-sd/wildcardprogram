@@ -17,4 +17,34 @@
   <url><loc>https://wildcardprogram.com/sitemap.html</loc><lastmod>2026-02-21</lastmod></url>
   <url><loc>https://wildcardprogram.com/feed.xml</loc><lastmod>2026-02-21</lastmod></url>
   <url><loc>https://wildcardprogram.com/robots.txt</loc><lastmod>2026-02-21</lastmod></url>
+  <url>
+    <loc>https://wildcardprogram.com/blog/age-appropriate-training-for-young-athletes/</loc>
+    <lastmod>2026-02-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://wildcardprogram.com/blog/inclusive-sports-programs-for-all-abilities/</loc>
+    <lastmod>2026-02-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://wildcardprogram.com/blog/multi-sport-participation-vs-early-specialization/</loc>
+    <lastmod>2026-02-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://wildcardprogram.com/blog/preventing-youth-sports-burnout-and-overtraining/</loc>
+    <lastmod>2026-02-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://wildcardprogram.com/blog/the-role-of-sports-in-character-development/</loc>
+    <lastmod>2026-02-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
 </urlset>
